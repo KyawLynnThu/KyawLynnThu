@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kyaw Linn Thu</h1>
 <h3 align="center">A junior developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **VueJs**
+🌱 I’m currently learning **VueJs**
 
-- 📫 How to reach me **kyawlinnthu1999@gmail.com**
+📫 How to reach me **kyawlinnthu1999@gmail.com**
 
-- ⚡ Fun fact **I love Coding**
+⚡ Fun fact **I love Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
