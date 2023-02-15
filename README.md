@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently working as **Fullstack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyawLynnThu?tab=repositories](https://github.com/KyawLynnThu?tab=repositories)
 
