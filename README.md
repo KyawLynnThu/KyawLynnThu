@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyawLynnThu?tab=repositories](https://github.com/KyawLynnThu?tab=repositories)
 
-- 📫 How to reach me **kyawlinnthu1999@gmail.com**
+- 📫 How to reach me **kyawlinnthu.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
